@@ -1,0 +1,13 @@
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.vbproj.AssemblyReference.cache
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.vbproj.SuggestedBindingRedirects.cache
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.Form1.resources
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.Resources.resources
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.vbproj.GenerateResource.cache
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.vbproj.CoreCompileInputs.cache
+D:\activity\logingForm\logingForm\bin\Debug\logingForm.exe.config
+D:\activity\logingForm\logingForm\bin\Debug\logingForm.exe
+D:\activity\logingForm\logingForm\bin\Debug\logingForm.pdb
+D:\activity\logingForm\logingForm\bin\Debug\logingForm.xml
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.exe
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.xml
+D:\activity\logingForm\logingForm\obj\Debug\logingForm.pdb
